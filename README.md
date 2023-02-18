@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Fajar Riza Fahlevi**.
 
 Saya merupakan seorang **Fresh Graduate** dari Universitas Lampung yang tertarik dengan programming.
-Saat ini saya sedang fokus belajar dan mengasah kemampuan saya untuk menjadi seorang **Front-end Web Developer".
+Saat ini saya sedang fokus belajar dan mengasah kemampuan saya untuk menjadi seorang **Front-end Web Developer**.
 
 Beberapa hal yang sudah saya pelajari sejauh ini antara lain:
 - HTML
