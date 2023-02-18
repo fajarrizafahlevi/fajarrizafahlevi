@@ -1,15 +1,25 @@
-# Halo semua! 
+# Hi, I'm Fajar! 👋
 
-Perkenalkan nama saya **Fajar Riza Fahlevi**.
+I'm a fresh graduate that interested in programming.
 
-Saya merupakan seorang **Fresh Graduate** dari Universitas Lampung yang tertarik dengan programming.
-Saat ini saya sedang fokus belajar dan mengasah kemampuan saya untuk menjadi seorang **Front-end Web Developer**.
+- 🌱 I’m currently learning to become a **Front-end Web Developer** 
+- 📫 How to reach me: fajarrizafahlevi@gmail.com
+- ⚡ Fun fact: I'm also a 2D Artist!
 
-Beberapa hal yang sudah saya pelajari sejauh ini antara lain:
-- HTML
-- CSS
-- JavaScript
-- Git/GitHub
-- React
+### Tech Stack
+  <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Devicon-css3-plain-wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <br>
+  
+### Github Statistic
+<p align="left">
+  <a href="https://github.com/fajarrizafahlevi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fajarrizafahlevi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fajarrizafahlevi&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-Jika ingin mengenal lebih dekat mengenai saya, silahkan cek di [Linkedin](https://www.linkedin.com/in/fajarrizafahlevi/) saya ya!
+### Reach me on
+- <a href="https://linkedin.com/in/fajarrizafahlevi/">LinkedIn</a>
