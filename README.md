@@ -1,16 +1,15 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**fajarrizafahlevi/fajarrizafahlevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Fajar Riza Fahlevi**.
 
-Here are some ideas to get you started:
+Saya merupakan seorang **Fresh Graduate** dari Universitas Lampung yang tertarik dengan programming.
+Saat ini saya sedang fokus belajar dan mengasah kemampuan saya untuk menjadi seorang **Front-end Web Developer".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beberapa hal yang sudah saya pelajari sejauh ini antara lain:
+- HTML
+- CSS
+- JavaScript
+- Git/GitHub
+- React
+
+Jika ingin mengenal lebih dekat mengenai saya, silahkan cek di [Linkedin](https://www.linkedin.com/in/fajarrizafahlevi/) saya ya!
