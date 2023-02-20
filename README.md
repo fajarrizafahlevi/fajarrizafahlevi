@@ -1,6 +1,6 @@
 # Hi, I'm Fajar! 👋
 
-I'm a fresh graduate that interested in programming.
+I'm a fresh graduate who is passionate about programming.
 
 - 🌱 I’m currently learning to become a **Front-end Web Developer** 
 - 📫 How to reach me: fajarrizafahlevi@gmail.com
