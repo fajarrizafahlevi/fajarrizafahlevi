@@ -2,7 +2,7 @@
 
 I'm a fresh graduate who is passionate about programming.
 
-- 🌱 I’m currently learning to become a **Front-end Web Developer** 
+- 🌱 I’m currently learning front-end development to become a **Web Developer** 
 - 📫 How to reach me: fajarrizafahlevi@gmail.com
 - ⚡ Fun fact: I'm also a 2D Artist!
 
