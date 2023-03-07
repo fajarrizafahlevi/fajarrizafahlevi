@@ -1,8 +1,8 @@
 # Hi, I'm Fajar! 👋
 
-I'm a fresh graduate who is passionate about programming.
+I'm a fresh graduate who is passionate about front-end development.
 
-- 🌱 I’m currently learning front-end development to become a **Web Developer** 
+- 🌱 I’m currently learning typescript, next.js and react native
 - 📫 How to reach me: fajarrizafahlevi@gmail.com
 - ⚡ Fun fact: I'm also a 2D Artist!
 
