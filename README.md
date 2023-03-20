@@ -2,7 +2,7 @@
 
 A chemical engineering fresh graduate who is passionate about programming.
 
-- 🌱 I’m currently learning typescript, next.js and react native
+- 🌱 I’m currently learning next.js and react native
 - 📫 How to reach me: fajarrizafahlevi@gmail.com
 - ⚡ Fun fact: I'm also a 2D Artist!
 
