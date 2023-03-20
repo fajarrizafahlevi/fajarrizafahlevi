@@ -25,5 +25,5 @@ A chemical engineering fresh graduate who is passionate about programming.
   </a>
 </p>
 
-### Reach me on
+### Social Links
 - <a href="https://linkedin.com/in/fajarrizafahlevi/">LinkedIn</a>
